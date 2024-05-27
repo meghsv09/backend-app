@@ -8,7 +8,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@aws-amplify/backend": "^1.0.2",
     "@aws-amplify/backend-cli": "^1.0.3",
@@ -21,5 +20,6 @@
   },
   "dependencies": {
     "aws-amplify": "^6.3.4"
-  }
+  },
+  "description": ""
 }
